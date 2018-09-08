@@ -1,0 +1,1 @@
+start /d G:\home\Database\GWhere\DB G:\home\Database\GWhere\GWhere\gwhere.exe

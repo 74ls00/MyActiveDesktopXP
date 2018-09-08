@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgramsD\odbg110 OLLYDBG.EXE

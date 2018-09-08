@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgramsW\Deluge\Deluge" deluge.exe

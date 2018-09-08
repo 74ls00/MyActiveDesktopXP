@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgramsW\FontCreator FontCreator.exe

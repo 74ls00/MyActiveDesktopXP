@@ -1,0 +1,1 @@
+start G:\GAME\PC\Rappelz

@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgramsW\Acronis\TrueImageHome2009" TrueImage.exe

@@ -1,0 +1,1 @@
+start /d G:\GAME\PC\RAPPELZ_TESTSERVER  Launcher.exe

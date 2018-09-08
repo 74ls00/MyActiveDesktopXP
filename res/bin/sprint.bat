@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgrSAT\Sprint sprint.exe

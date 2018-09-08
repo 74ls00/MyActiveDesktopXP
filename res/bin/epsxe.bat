@@ -1,0 +1,1 @@
+start /d G:\Programs\Emul\PSX\epsxe ePSXe170ru.exe

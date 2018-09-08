@@ -1,0 +1,1 @@
+start /d "%ProgramFiles%\GIGABYTE\ET5" ET5SC.exe

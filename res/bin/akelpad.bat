@@ -1,0 +1,1 @@
+start /d G:\Programs\Programs\AkelPad\4.4.9-rus AkelPad.exe

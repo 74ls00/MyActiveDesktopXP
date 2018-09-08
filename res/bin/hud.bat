@@ -1,0 +1,1 @@
+start /d "%ProgramFiles%\GIGABYTE\GAMERH~1" HUD.exe

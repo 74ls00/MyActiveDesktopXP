@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgrSAT\SlonAx 3G" slonax_3g.exe

@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgramsW\Acronis\Acronis Disk Director" OS_Selector.exe

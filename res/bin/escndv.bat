@@ -1,0 +1,1 @@
+start %windir%\twain_32\escndv\escndv.exe

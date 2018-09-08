@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgramsD\Qt\2010.04\qt G:\Programs\ProgramsD\Qt\2010.04\bin\qtcreator.exe

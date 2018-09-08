@@ -1,0 +1,1 @@
+start /normal P:\ProgramsW\SocksCapV2\sc32.exe "WebMoney"

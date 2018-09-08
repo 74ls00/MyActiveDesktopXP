@@ -1,0 +1,2 @@
+cd "%HOMEDRIVE%%HOMEPATH%"
+start /normal IEXPLORE.EXE

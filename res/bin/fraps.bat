@@ -1,0 +1,1 @@
+start /normal G:\Programs\ProgramsW\Fraps\fraps.exe

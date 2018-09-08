@@ -1,0 +1,1 @@
+start /d C:\PROGRA~1\WINGRUB grubinst_gui.exe

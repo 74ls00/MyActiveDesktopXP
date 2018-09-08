@@ -1,0 +1,1 @@
+copy #323232.bmp %windir%\#323232.bmp

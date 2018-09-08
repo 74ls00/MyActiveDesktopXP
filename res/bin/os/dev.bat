@@ -1,0 +1,1 @@
+start %systemroot%/system32/devmgmt.msc

@@ -1,0 +1,1 @@
+start /d G:\Programs\Programs\SoftwareOK\DesktopOK DesktopOK_Unicode.exe

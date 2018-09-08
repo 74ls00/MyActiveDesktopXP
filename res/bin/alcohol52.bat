@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgramsW\Alcohol Soft\Alcohol 52" Alcohol.exe

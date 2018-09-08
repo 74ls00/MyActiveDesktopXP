@@ -1,0 +1,1 @@
+start G:\Programs\ProgramsW\KDE\kde\bin\kruler.exe

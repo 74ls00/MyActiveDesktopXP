@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgramsW\AuslogicsDiskDefrag3 DiskDefrag.exe

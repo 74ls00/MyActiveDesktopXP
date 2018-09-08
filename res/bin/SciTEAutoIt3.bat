@@ -1,0 +1,1 @@
+@ start /d G:\Programs\ProgramsD\AutoIt3\SciTE SciTE.exe

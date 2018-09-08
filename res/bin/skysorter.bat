@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgrSAT\SkySorter_v3.2.0.0 SkySorter.exe

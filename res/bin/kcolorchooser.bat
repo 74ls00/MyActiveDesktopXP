@@ -1,0 +1,1 @@
+start /d G:\Programs\ProgramsW\KDE\kde\bin kcolorchooser.exe

@@ -1,0 +1,1 @@
+start /d G:\GAME\PC\Hedgewars0.9.13\bin hedgewars.exe

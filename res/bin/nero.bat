@@ -1,0 +1,1 @@
+start /d "G:\Programs\ProgramsW\Nero\Nero 7\Nero StartSmart" NeroStartSmart.exe

@@ -1,0 +1,1 @@
+start %windir%\regedit.exe

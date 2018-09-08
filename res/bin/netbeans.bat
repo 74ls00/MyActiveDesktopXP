@@ -1,0 +1,1 @@
+start /d G:\Programs\PROGRA~3\NETBEA~1.0  bin\netbeans.exe
